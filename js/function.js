@@ -42,4 +42,4 @@ calculate = function (num1, num2, operation) {
             return 0;
     }
 };
-console.log(calculate(10, 5, "plus"));
+// console.log(calculate(10, 5, "plus"));

@@ -51,4 +51,4 @@ calculate = (num1, num2, operation) => {
   }
 };
 
-console.log(calculate(10, 5, "plus"));
+// console.log(calculate(10, 5, "plus"));
